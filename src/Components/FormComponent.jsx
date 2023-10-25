@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Logo from '../assets/juego-ajedrez-piezas-ajedrez-tablero-fondo-oscuro-generacion-ai_201606-3856.jpg';
+import Logo from '../assets/ajedrez.jpg';
 
 const ParentComponent = styled.div`
   align-items: center;
